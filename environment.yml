@@ -1,0 +1,7 @@
+name: venv-stac
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+prefix: //Users/brpagan/anaconda3/envs/venv-stac
